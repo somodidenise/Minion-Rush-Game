@@ -15,7 +15,22 @@ A 2D side-scrolling game inspired by Minion Rush, developed entirely in Assembly
 - Custom `.inc` files for sprite data (Minion, bricks, bananas)
 
 ## 📂 Folder Structure
-/Minion-Rush ├── test.asm # Main game logic ├── minion.inc # Minion sprite data ├── brick.inc # Obstacle sprite data ├── banana.inc # Collectible sprite data ├── canvas.dll # Graphics library (do not include in repo) ├── canvas.lib # Library file (do not include in repo) ├── README.md # Project documentation └── .gitignore # Git ignore rules
+/Minion-Rush
+├── test.asm               # Main game logic
+├── minion.inc             # Minion sprite data
+├── bananas.inc            # Collectible sprite data
+├── brick.inc              # Obstacle sprite data
+├── digits.inc             # Digits sprite data
+├── greenblock.inc         # Green block sprite data
+├── letters.inc            # Letters sprite data
+├── onebanana.inc          # Single banana sprite data
+├── picture.inc            # Picture/sprite data
+├── canvas.dll             # Graphics library (do not include in repo)
+├── canvas.lib             # Library file (do not include in repo)
+├── README.md              # Project documentation
+├── LICENSE                # Project license
+└── .gitignore             # Git ignore rules
+
 
 
 ## ⚙️ How to Run the Game
