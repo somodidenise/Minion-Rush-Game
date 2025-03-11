@@ -16,7 +16,7 @@ A 2D side-scrolling game inspired by Minion Rush, developed entirely in Assembly
 
 ## 📁 Folder Structure
 
-"""
+```
 /Minion-Rush 
 ├── test.asm # Main game logic 
 ├── minion.inc # Minion sprite data 
@@ -32,7 +32,7 @@ A 2D side-scrolling game inspired by Minion Rush, developed entirely in Assembly
 ├── README.md # Project documentation 
 ├── LICENSE # Project license 
 └── .gitignore # Git ignore rules
-"""
+```
 
 
 ## ⚙️ How to Run the Game
