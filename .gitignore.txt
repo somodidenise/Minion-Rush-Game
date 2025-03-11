@@ -1,0 +1,16 @@
+# Ignore build and output files
+*.exe
+*.obj
+*.o
+
+# Ignore libraries
+*.dll
+*.lib
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
